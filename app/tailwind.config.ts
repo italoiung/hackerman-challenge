@@ -7,7 +7,7 @@ export default <Partial<Config>>{
       h1: ['30px', { lineHeight: '36px', fontWeight: 700 }],
       h2: ['24px', { lineHeight: '28.8px', fontWeight: 600 }],
       regular: ['20px', { lineHeight: '24px', fontWeight: 400 }],
-      small: ['18px', { lineHeight: '28px' }],
+      small: ['16px', { lineHeight: '28px' }],
       tiny: ['14px', { lineHeight: '16.8px', fontWeight: 400 }],
     },
     fontFamily: {
